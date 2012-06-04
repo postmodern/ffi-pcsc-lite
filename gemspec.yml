@@ -1,0 +1,17 @@
+name: ffi-pcsc-lite
+summary: FFI bindings for pcsc-lite
+description:
+  Ruby FFI bindings for PCSC Lite (libpcsclite). 
+
+license: MIT
+authors: Postmodern
+email: postmodern.mod3@gmail.com
+homepage: https://github.com/postmodern/ffi-pcsc-lite#readme
+
+dependencies:
+  ffi: ~> 1.0
+
+development_dependencies:
+  rubygems-tasks: ~> 0.2
+  rspec: ~> 2.4
+  yard: ~> 0.7
